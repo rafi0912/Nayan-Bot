@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Irfan",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -10,14 +10,14 @@
   "BOTNAME": "nayan-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "itsi.rfuxholifa20252025",
+    "itsi.rfuxholifa20252025"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "itsi.rfuxholifa20252025",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["itsi.rfuxholifa20252025"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
